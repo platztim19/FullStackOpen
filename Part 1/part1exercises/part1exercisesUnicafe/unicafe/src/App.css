@@ -1,0 +1,29 @@
+html {
+  background-color: rgb(184, 221, 253);
+}
+
+.App {
+  text-align: center;
+}
+
+#buttonBox {
+  width: 100%;
+  text-align: center;
+}
+
+div button{
+  display:inline-block;
+  margin: 0px 5px
+}
+
+table {
+  margin: 0 auto;
+  padding: 0px;
+}
+
+td {
+  border: 1px solid blueviolet;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 15px;
+}
